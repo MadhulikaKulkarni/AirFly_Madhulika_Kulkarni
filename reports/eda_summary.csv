@@ -1,0 +1,9 @@
+,value
+num_rows,300000.0
+num_routes,7103.0
+num_airlines,18.0
+percent_cancelled,2.6223333333333336
+median_arr_delay,-7.0
+mean_arr_delay,4.105863333333334
+median_dep_delay,-2.0
+mean_dep_delay,9.973886666666667
