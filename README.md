@@ -8,7 +8,7 @@ For Milestone 1, I cleaned and prepared the flight dataset to make it ready for 
 ## Dataset
 
 * Original dataset: `flights_sample_3m.csv`
-* Cleaned dataset: `flights_dashboard_final.csv`
+* Cleaned dataset: `flights_cleaned_for_dashboard.csv `
 
 
 ## Steps I Did
